@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "w5xOsbqh2JD0Vsz15J2MOFn+OrcILvTg/LCHyxqSJgY=",
+  "Source": "DIExample",
+  "BasePath": "_content/DIExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DIExample\\wwwroot",
+      "Source": "DIExample",
+      "ContentRoot": "D:\\UDEMY\\DIExample\\DIExample\\DIExample\\wwwroot\\",
+      "BasePath": "_content/DIExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\UDEMY\\DIExample\\DIExample\\DIExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "DIExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\UDEMY\\DIExample\\DIExample\\DIExample\\wwwroot\\",
+      "BasePath": "_content/DIExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
